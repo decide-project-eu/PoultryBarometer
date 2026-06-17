@@ -1,32 +1,25 @@
 # PoultryBarometer
 This repository contains the Tableau file, example data and metadata of the Poultry Barometer
 
----
-title: "Poultry Barometer"
-subtitle: "IB Strain Monitoring in Broiler Chickens"
-categories:
-  - Poultry
-  - Work Package 1
-  - Use case
-author: Yara Slegers, Sjaak de Wit, Miel Hostens, et al.
-date: 06/26/2022
-toc: true
-language: 
-    section-title-footnotes: References
----
+## Authors
+Yara Slegers, Sjaak de Wit, Miel Hostens, et al.
 
-# Aim
+## Aim
 
 The aim of the "Poultry Barometer" is to provide insight into the most prevalent Infectious Bronchitis Virus (IBV) strains in broiler chickens within specific regions and periods.
 
-# Background
+## Background
 
 IBV causes infectious bronchitis (IB) in poultry. An infection can lead to respiratory signs, drop in production, and kidney damage. In the Netherlands, broilers are often vaccinated against IBV to limit the impact of disease. However, vaccines do not protect against all IBV strains, and new strain are regularly discovered. Insights into the most prevalent strains can help to better protect broiler flocks against IBV.
 
 For more information on IBV, visit the [GD website](https://www.gdanimalhealth.com/Disease-control/Animal-diseases/Infectious-Bronchitis)
 
-# Data
+## Data
 
 Currently, the dashboard only includes data from the Netherlands, provided by Royal GD. Royal GD performs PCR tests on submitted material to detect IBV. If the virus is detected, sequencing will determine the specific IBV genotype.
 
 Only anonymous data is used to create the dashboard. After linking a farm to the correct province, farm identification is removed from the data. The dashboard shows only aggregated data.
+
+## How to use
+
+To open this dashboard, you need Tableau. You can open the example dataset in Tableau or add your own data.
