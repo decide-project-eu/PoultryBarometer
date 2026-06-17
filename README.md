@@ -22,4 +22,4 @@ Only anonymous data is used to create the dashboard. After linking a farm to the
 
 ## How to use
 
-To open this dashboard, you need Tableau. You can open the example dataset in Tableau or add your own data.
+To edit this dashboard, you need Tableau. You can open the example dataset in Tableau or add your own data.
