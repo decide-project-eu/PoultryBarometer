@@ -1,5 +1,5 @@
 # PoultryBarometer
-This repository contains the Tableau file, example data and metadata of the Poultry Barometer
+This repository contains the Tableau file, example data and metadata of the Poultry Barometer.
 
 ## Authors
 Yara Slegers, Sjaak de Wit, Miel Hostens, et al.
@@ -20,6 +20,10 @@ Currently, the dashboard only includes data from the Netherlands, provided by Ro
 
 Only anonymous data is used to create the dashboard. After linking a farm to the correct province, farm identification is removed from the data. The dashboard shows only aggregated data.
 
-## How to use
+## How to visit the tool
 
-To edit this dashboard, you need Tableau. You can open the example dataset in Tableau or add your own data.
+You can try out the tool here: [https://decide-project-eu.github.io/case-studies-website/case-studies/poultry-barometer.html]
+
+## How to use the Tableau workbooks
+
+To edit this dashboard, you need Tableau. You can open the twbx (packaged workbooks) in Tableau and use the dashboard with the example dataset. You can also add your own data, provided it includes the same column names.
