@@ -2,7 +2,7 @@
 This repository contains the Tableau file, example data and metadata of the Poultry Barometer.
 
 ## Authors
-Yara Slegers, Sjaak de Wit, Miel Hostens, et al.
+Yara Slegers, Sjaak de Wit
 
 ## Aim
 
